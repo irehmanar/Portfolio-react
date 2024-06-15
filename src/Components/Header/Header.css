@@ -36,12 +36,12 @@ bottom: 3rem;
 
 .me{
     background: linear-gradient(var(--color-primary),transparent);
-    width: 30rem;
-    height: 25rem;
+    width: 35rem;
+    height: 30rem;
     margin: auto;
     margin-top: 4rem;
     border-radius: 12rem 12rem 0 0;
-    padding: 5rem 1.5rem 0rem 1.5rem;
+    padding: 5rem 1.5rem 3rem 1.5rem;
 }
 
 

@@ -23,12 +23,12 @@ function About() {
             <article className='about__card'>
               <LiaAwardSolid className='about__icon'/>
               <h5>Experience</h5>
-              <small>3+ Years Working</small>
+              <small>6 months Working</small>
             </article>
             <article className='about__card'>
               <GoProjectRoadmap className='about__icon'/>
               <h5>Clients</h5>
-              <small>200+ Worldwide</small>
+              <small>15+ Worldwide</small>
             </article>
             <article className='about__card'>
               <IoIosPeople className='about__icon'/>
@@ -40,7 +40,7 @@ function About() {
 
 
           <p>
-            Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quisquam vitae consectetur neque aut ut modi excepturi, voluptatibus nemo ad corrupti inventore, nihil dicta odit dolores nesciunt enim veritatis! Labore, culpa.
+          Highly motivated and results-oriented BSCS student at NUST, eagerly pursuing an in-depth understanding of front-end development. Driven by a passion for crafting engaging and user-centric web experiences, I am currently honing my skills in React, the industry-standard JavaScript library for building dynamic and interactive user interfaces.
           </p>
 
 

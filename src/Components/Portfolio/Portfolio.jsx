@@ -17,7 +17,7 @@ function Portfolio() {
             <div className="portfolio__item-image">
               <img src={img1} alt="" />
             </div>
-              <h3>This is portfolio item title</h3>
+              <h3>Portfolio Website</h3>
               <div className="portfolio__item-cta">
               <a href="https://github.com" className='btn'>Github</a>
               <a href="https://github.com" className='btn btn-primary' target='_blank'>Live Demo</a>
@@ -28,7 +28,7 @@ function Portfolio() {
             <div className="portfolio__item-image">
               <img src={img2} alt="" />
             </div>
-              <h3>This is portfolio item title</h3>
+              <h3>E-commerence Website</h3>
               <div className="portfolio__item-cta">
               <a href="https://github.com" className='btn'>Github</a>
               <a href="https://github.com" className='btn btn-primary' target='_blank'>Live Demo</a>
@@ -40,7 +40,7 @@ function Portfolio() {
             <div className="portfolio__item-image">
               <img src={img3} alt="" />
             </div>
-              <h3>This is portfolio item title</h3>
+              <h3>Admin Dashboard</h3>
               <div className="portfolio__item-cta">
               <a href="https://github.com" className='btn'>Github</a>
               <a href="https://github.com" className='btn btn-primary' target='_blank'>Live Demo</a>
@@ -52,7 +52,7 @@ function Portfolio() {
             <div className="portfolio__item-image">
               <img src={img4} alt="" />
             </div>
-              <h3>This is portfolio item title</h3>
+              <h3>Animation Website</h3>
               <div className="portfolio__item-cta">
               <a href="https://github.com" className='btn'>Github</a>
               <a href="https://github.com" className='btn btn-primary' target='_blank'>Live Demo</a>
@@ -65,7 +65,7 @@ function Portfolio() {
             <div className="portfolio__item-image">
               <img src={img5} alt="" />
             </div>
-              <h3>This is portfolio item title</h3>
+              <h3>Medical Website</h3>
               <div className="portfolio__item-cta">
               <a href="https://github.com" className='btn'>Github</a>
               <a href="https://github.com" className='btn btn-primary' target='_blank'>Live Demo</a>
